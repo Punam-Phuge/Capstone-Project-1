@@ -1,0 +1,1142 @@
+.homepageResponsive {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.divhomepageResponsive {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 2948px;
+    position: relative;
+}
+.divhomepageResponsive1 {
+    position: absolute;
+    width: 1440px;
+    height: 68px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+.homepageResponsiveframe {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    top: 22px;
+    left: 100px;
+}
+
+ .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 48px;
+    position: absolute;
+    top: 24px;
+    left: 491px;
+}
+
+.Menuitems {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: rgba(51, 51, 51, 1);
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.ellipseImage {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 12px;
+    left: 1296px;
+    object-fit: cover;
+}
+
+.notificationImage {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 22px;
+    left: 1250px;
+}
+
+.overlap-group-2 {
+    position: relative;
+    width: 19px;
+    height: 22px;
+    left: 4px;
+} 
+
+.notificationImage1 {
+    position: absolute;
+    width: 15px;
+    height: 20px;
+    top: 2px;
+    left: 0;
+}
+
+.ellipseImage1 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 0;
+    left: 7px;
+    background-color: rgba(235, 87, 87, 1);
+    border-radius: 6px;
+    border: 2px solid;
+    border-color: #ffffff;
+}
+:root {
+    --gray-2: rgba(79, 79, 79, 1);
+    --blue-1: rgba(47, 128, 237, 1);
+    --gray-1: rgba(51, 51, 51, 1);
+    --red: rgba(235, 87, 87, 1);
+    --gray-6: rgba(242, 242, 242, 1);
+}
+
+.divhomepageResponsive2 {
+    position: absolute;
+    width: 1240px;
+    height: 532px;
+    top: 80px;
+    left: 100px;
+}
+
+.travelImage1 {
+    position: absolute;
+    width: 1240px;
+    height: 500px;
+    top: 0;
+    left: 0;
+}
+ .Responsivediv3 {
+    position: absolute;
+    width: 1030px;
+    height: 64px;
+    top: 468px;
+    left: 105px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 37px #00000026;
+}
+
+.Vacation1 {
+    position: absolute;
+    width: 610px;
+    top: 189px;
+    left: 315px;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.para1 {
+    position: absolute;
+    width: 650px;
+    top: 247px;
+    left: 295px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    line-height: 28px;
+}
+
+.Responsiveframe1 {
+    display: flex;
+    width: 148px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    position: absolute;
+    top: 478px;
+    left: 975px;
+    background-color: rgba(47, 128, 237, 1);
+    border-radius: 6px;
+}
+
+ .Searchclass {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.search1 {
+    width: 260px;
+    left: 117px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: absolute;
+    top: 478px;
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 4px;
+}
+
+.img {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+.text-wrapper1 {
+    position: relative;
+    width: 142px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+}
+
+.search2{
+    width: 170px;
+    left: 389px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: absolute;
+    top: 478px;
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 4px;
+}
+
+.text-wrapper2 {
+    position: relative;
+    width: 105px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+}
+
+.search3 {
+    display: flex;
+    width: 170px;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: absolute;
+    top: 478px;
+    left: 571px;
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 4px;
+}
+
+.search4 {
+    width: 210px;
+    left: 753px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: absolute;
+    top: 478px;
+    background-color: rgba(242, 242, 242, 1);
+    border-radius: 4px;
+}
+ .text-wrapper3 {
+    position: relative;
+    width: 140px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+}
+
+.divhomepageResponsive3 {
+    position: absolute;
+    width: 1240px;
+    height: 72px;
+    top: 662px;
+    left: 100px;
+    background-color: #fcefca;
+    border-radius: 8px;
+}
+
+.check-the-latest {
+    position: absolute;
+    top: 24px;
+    left: 75px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.span {
+    color: #333333;
+}
+
+ .text-wrapper6 {
+    color: #2f80ed;
+}
+
+.dangerImage {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 20px;
+    left: 24px;
+}
+
+.text-wrapper7 {
+    position: absolute;
+    top: 2629px;
+    left: 415px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+ .text-wrapper8 {
+    position: absolute;
+    top: 2668px;
+    left: 415px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.group {
+    position: absolute;
+    width: 227px;
+    height: 70px;
+    top: 2630px;
+    left: 100px;
+}
+
+ .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.planeicon{
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.mydreamplacetext {
+    position: relative;
+    width: fit-content;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #1b1e2c;
+    font-size: 18px;
+    letter-spacing: 0.36px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.p {
+    position: absolute;
+    width: 197px;
+    top: 30px;
+    left: 28px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+}
+
+.text-jobs {
+    position: absolute;
+    top: 2695px;
+    left: 415px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Newsroom {
+    position: absolute;
+    top: 2722px;
+    left: 415px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-Advertising {
+    position: absolute;
+    top: 2749px;
+    left: 415px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Contact {
+    position: absolute;
+    top: 2776px;
+    left: 415px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Australia {
+    position: absolute;
+    top: 2668px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-PrivacyPolicy {
+    position: absolute;
+    top: 2668px;
+    left: 899px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-Support {
+    position: absolute;
+    top: 2668px;
+    left: 1141px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-NewZealand {
+    position: absolute;
+    top: 2695px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+ .text-Termsofuse {
+    position: absolute;
+    top: 2695px;
+    left: 899px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-bookings{
+    position: absolute;
+    top: 2695px;
+    left: 1141px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-UnitedStatesAmerica {
+    position: absolute;
+    top: 2722px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-Acessibility {
+    position: absolute;
+    top: 2722px;
+    left: 899px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-Coupon {
+    position: absolute;
+    top: 2722px;
+    left: 1141px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Greece {
+    position: absolute;
+    top: 2749px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+ .text-policy{
+    position: absolute;
+    top: 2749px;
+    left: 899px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.text-Policies {
+    position: absolute;
+    top: 2749px;
+    left: 1141px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Maldives{
+    position: absolute;
+    top: 2776px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+.text-Documents {
+    position: absolute;
+    top: 2776px;
+    left: 1141px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Singapore {
+    position: absolute;
+    top: 2803px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-more {
+    position: absolute;
+    top: 2830px;
+    left: 657px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--blue-1);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+ .text-Explore {
+    position: absolute;
+    top: 2629px;
+    left: 657px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.text-Terms {
+    position: absolute;
+    top: 2629px;
+    left: 899px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.text-Help {
+    position: absolute;
+    top: 2629px;
+    left: 1141px;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+ .text-dream {
+    position: absolute;
+    width: 504px;
+    top: 783px;
+    left: 100px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+ .text-inspiration {
+    position: absolute;
+    width: 504px;
+    top: 1246px;
+    left: 100px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.text-hotels {
+    position: absolute;
+    width: 504px;
+    top: 1642px;
+    left: 100px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.rectangle-3 {
+    position: absolute;
+    width: 295px;
+    height: 220px;
+    top: 906px;
+    left: 100px;
+    object-fit: cover;
+}
+
+ .divResponsiveframe-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 1140px;
+    left: 100px;
+}
+
+.text-Australia1 {
+    position: relative;
+    width: 295px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    color: #181818;
+    font-size: 20px;
+    letter-spacing: 0;
+    font-weight: 400;
+    line-height: normal;
+}
+
+ .text-properties {
+    position: relative;
+    width: 295px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+
+.rectangle-4 {
+    position: absolute;
+    width: 295px;
+    height: 300px;
+    top: 1699px;
+    left: 100px;
+    object-fit: cover;
+}
+
+.divResponsiveframe-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 2013px;
+    left: 100px;
+}
+
+.text-Motel {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+ .overlap2 {
+    position: absolute;
+    width: 400px;
+    height: 280px;
+    top: 1303px;
+    left: 100px;
+    background-image: url(./Images/hotels2.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.text-Sydeny’s {
+    position: absolute;
+    width: 360px;
+    top: 157px;
+    left: 20px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+ .text-Browse {
+    position: absolute;
+    width: 360px;
+    top: 215px;
+    left: 20px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22.4px;
+}
+
+ .overlap3 {
+    position: absolute;
+    width: 400px;
+    height: 280px;
+    top: 1303px;
+    left: 520px;
+    background-image: url(./Images/vegan.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+ .text-Vegan {
+    position: absolute;
+    width: 360px;
+    top: 181px;
+    left: 20px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+ .overlap4 {
+    position: absolute;
+    width: 400px;
+    height: 280px;
+    top: 1303px;
+    left: 940px;
+    background-image: url(./Images/hotels3.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.rectangle5 {
+    position: absolute;
+    width: 295px;
+    height: 220px;
+    top: 906px;
+    left: 415px;
+    object-fit: cover;
+}
+
+.frame-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    top: 2908px;
+    left: 0;
+    background-color: #eaeaea;
+}
+
+ .frame5 {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    position: relative;
+    top: 10px;
+    left: 1083px;
+}
+
+ .copyright {
+    position: relative;
+    width: 16px;
+    height: 16px;
+}
+
+.text-Place {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-2);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+ .frame6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 1140px;
+    left: 415px;
+}
+
+ .text-wrapper-36 {
+    position: relative;
+    width: 295px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    color: #181818;
+    font-size: 20px;
+    letter-spacing: 0;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text-wrapper-37 {
+    position: relative;
+    width: 295px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: normal;
+}
+.text-wrapper-38 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+ .rectangle6 {
+    position: absolute;
+    width: 295px;
+    height: 300px;
+    top: 1699px;
+    left: 415px;
+    object-fit: cover;
+}
+
+.frame7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 2013px;
+    left: 415px;
+}
+
+ .rectangle7 {
+    position: absolute;
+    width: 295px;
+    height: 220px;
+    top: 906px;
+    left: 730px;
+    object-fit: cover;
+}
+
+ .frame8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 1140px;
+    left: 730px;
+}
+
+ .rectangle8 {
+    position: absolute;
+    width: 295px;
+    height: 300px;
+    top: 1699px;
+    left: 730px;
+    object-fit: cover;
+}
+
+.frame9 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 2013px;
+    left: 730px;
+}
+
+ .rectangle9 {
+    position: absolute;
+    width: 295px;
+    height: 220px;
+    top: 906px;
+    left: 1045px;
+    object-fit: cover;
+}
+
+.frame10 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 1140px;
+    left: 1045px;
+}
+
+.rectangle10 {
+    position: absolute;
+    width: 295px;
+    height: 300px;
+    top: 1699px;
+    left: 1045px;
+    object-fit: cover;
+}
+
+ .frame11 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 2013px;
+    left: 1045px;
+}
+
+.plan-and-book-our-2 {
+    position: absolute;
+    width: 610px;
+    top: 831px;
+    left: 100px;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-1);
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22.4px;
+}
+
+ .Lastgroup2 {
+    position: absolute;
+    width: 824px;
+    height: 70px;
+    top: 2480px;
+    left: 310px;
+}
+
+ .text-world {
+    position: absolute;
+    width: 820px;
+    height: 32px;
+    top: 0;
+    left: 0;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #181818;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39.2px;
+    white-space: nowrap;
+}
+
+.text-Discover {
+    position: absolute;
+    width: 820px;
+    top: 48px;
+    left: 0;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--blue-1);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: 22.4px;
+}
+
+ .Lastgroup3 {
+    position: absolute;
+    width: 1240px;
+    height: 280px;
+    top: 2120px;
+    left: 100px;
+}
+
+
+.frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    position: relative;
+}
+
+.frame .text-wrapper {
+    position: relative;
+    width: 580px;
+    margin-top: -1px;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 39.2px;
+}
+
+.frame .download-mobile-app-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--blue-1);
+    border-radius: 6px;
+}
+
+.frame .download-mobile-app {
+    position: relative;
+    flex: 0 0 auto;
+}
+
+
+
+ 
